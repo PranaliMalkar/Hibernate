@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+.center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
